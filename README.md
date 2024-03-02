@@ -10,4 +10,4 @@
 
 #### example
 
-![Sample command](https://drive.google.com/file/d/1YJw7ioPp02sTPTpkgSTScDoEcU8iE7ko/view?usp=drive_link)
+![alt text](sample/sample_joke_command.png)
